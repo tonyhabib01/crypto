@@ -1,0 +1,43 @@
+select, input{
+    width: 250px;
+    height: 40px;
+    padding: 0;
+    margin: 0;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 125%;
+}
+button{
+    width: 100%;
+    height: 40px;
+    padding: 0;
+    margin: 0;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 200%;
+    background-color: cornsilk;
+    border: 0cm;
+}
+.row{
+    text-align: center;
+    height: 50px;
+}
+.content{
+    max-width: 900px;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -254px;
+}
+.title{
+    margin: 20px 0;
+    font-size: 250%;
+    background-color: rgba(255, 248, 220, 0.8);
+
+}
+body{
+    background-image: url(../img/background.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}

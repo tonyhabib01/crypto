@@ -1,0 +1,7 @@
+{
+    "name": "tonyhabib/elias-turk",
+    "require": {
+        "sunra/php-simple-html-dom-parser": "^1.5",
+        "guzzlehttp/guzzle": "^7.4"
+    }
+}
